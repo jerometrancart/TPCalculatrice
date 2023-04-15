@@ -1,0 +1,15 @@
+C:\wamp64\www\.Net\Section_3\TPCalculatrice\bin\Debug\net7.0\TPCalculatrice.exe
+C:\wamp64\www\.Net\Section_3\TPCalculatrice\bin\Debug\net7.0\TPCalculatrice.deps.json
+C:\wamp64\www\.Net\Section_3\TPCalculatrice\bin\Debug\net7.0\TPCalculatrice.runtimeconfig.json
+C:\wamp64\www\.Net\Section_3\TPCalculatrice\bin\Debug\net7.0\TPCalculatrice.dll
+C:\wamp64\www\.Net\Section_3\TPCalculatrice\bin\Debug\net7.0\TPCalculatrice.pdb
+C:\wamp64\www\.Net\Section_3\TPCalculatrice\obj\Debug\net7.0\TPCalculatrice.csproj.AssemblyReference.cache
+C:\wamp64\www\.Net\Section_3\TPCalculatrice\obj\Debug\net7.0\TPCalculatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\wamp64\www\.Net\Section_3\TPCalculatrice\obj\Debug\net7.0\TPCalculatrice.AssemblyInfoInputs.cache
+C:\wamp64\www\.Net\Section_3\TPCalculatrice\obj\Debug\net7.0\TPCalculatrice.AssemblyInfo.cs
+C:\wamp64\www\.Net\Section_3\TPCalculatrice\obj\Debug\net7.0\TPCalculatrice.csproj.CoreCompileInputs.cache
+C:\wamp64\www\.Net\Section_3\TPCalculatrice\obj\Debug\net7.0\TPCalculatrice.dll
+C:\wamp64\www\.Net\Section_3\TPCalculatrice\obj\Debug\net7.0\refint\TPCalculatrice.dll
+C:\wamp64\www\.Net\Section_3\TPCalculatrice\obj\Debug\net7.0\TPCalculatrice.pdb
+C:\wamp64\www\.Net\Section_3\TPCalculatrice\obj\Debug\net7.0\TPCalculatrice.genruntimeconfig.cache
+C:\wamp64\www\.Net\Section_3\TPCalculatrice\obj\Debug\net7.0\ref\TPCalculatrice.dll

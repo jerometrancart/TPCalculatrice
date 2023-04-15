@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TPCalculatrice/1.0.0": {
+        "runtime": {
+          "TPCalculatrice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TPCalculatrice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -10,6 +10,10 @@ namespace TPCalculatrice.Operations
         {
         }
 
+        public override string ToString()
+        {
+            return $"{OperandeGauche} / {OperandeDroite}";
+        }
         public override void Executer()
         {
             Resultat = 0;
